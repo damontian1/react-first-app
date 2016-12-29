@@ -13,7 +13,7 @@ var App = React.createClass({
     })
   },
   render: function(){
-    return(
+    return (
       <div className="App">
 
         <header className="clearfix">
