@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^0.12.0",
-    "node-sass": "^3.13.0",
-    "sass-loader": "^4.0.2",
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
     "babel-eslint": "7.0.0",
@@ -31,11 +28,13 @@
     "filesize": "3.3.0",
     "find-cache-dir": "0.1.1",
     "fs-extra": "0.30.0",
+    "gh-pages": "^0.12.0",
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.24.0",
     "http-proxy-middleware": "0.17.2",
     "jest": "16.0.2",
     "json-loader": "0.5.4",
+    "node-sass": "^3.13.0",
     "object-assign": "4.1.0",
     "path-exists": "2.1.0",
     "postcss-loader": "1.0.0",
@@ -43,6 +42,7 @@
     "react-dev-utils": "^0.3.0",
     "recursive-readdir": "2.1.0",
     "rimraf": "2.5.4",
+    "sass-loader": "^4.0.2",
     "strip-ansi": "3.0.1",
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
@@ -51,7 +51,7 @@
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "1.0.0"
   },
-  "homepage": "http://damontian3.github.io/first_react_app",
+  "homepage": "http://damontian3.github.io/react-first-app",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
